@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "smsSchedule": [
+    { "id": 1, "notice_ID": "566" },
+    { "id": 2, "date": "23042018" },
+    { "id": 3, "time": "11:15" },
+    { "id": 2, "date": "23042018" },
+    { "id": 2, "PhoneID": "+38977916316" },
+    { "id": 2, "notice_text": "Zdravo Stefan" }
+  ]
 }
